@@ -4,154 +4,154 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://40423105.github.io/blog/</loc>
-<lastmod>2016-04-29T04:22:09-00:00</lastmod>
+<loc>./</loc>
+<lastmod>2016-04-29T04:25:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/archives.html</loc>
-<lastmod>2016-04-29T04:22:09-00:00</lastmod>
+<loc>./archives.html</loc>
+<lastmod>2016-04-29T04:25:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/tags.html</loc>
-<lastmod>2016-04-29T04:22:09-00:00</lastmod>
+<loc>./tags.html</loc>
+<lastmod>2016-04-29T04:25:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/categories.html</loc>
-<lastmod>2016-04-29T04:22:09-00:00</lastmod>
+<loc>./categories.html</loc>
+<lastmod>2016-04-29T04:25:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/40423105-0401.html</loc>
+<loc>./40423105-0401.html</loc>
 <lastmod>2016-04-29T03:28:01+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/template-qi-dong-dian-nao-fu-zhu-ji-jie-she-ji-shou-ce-bian-ji.html</loc>
+<loc>./template-qi-dong-dian-nao-fu-zhu-ji-jie-she-ji-shou-ce-bian-ji.html</loc>
 <lastmod>2016-04-29T03:28:01+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/shi-ti-pai-zhao.html</loc>
+<loc>./shi-ti-pai-zhao.html</loc>
 <lastmod>2016-04-29T03:28:01+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/shu-mei-pai-3bxing-de-xu-ni-gui-hua.html</loc>
+<loc>./shu-mei-pai-3bxing-de-xu-ni-gui-hua.html</loc>
 <lastmod>2016-04-29T03:28:01+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/wan-cheng-wang-lu-pei-zhi-hui-tu.html</loc>
+<loc>./wan-cheng-wang-lu-pei-zhi-hui-tu.html</loc>
 <lastmod>2016-04-29T03:28:01+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/wang-lu-xian-zhi-zuo-liu-cheng-ji-lu.html</loc>
+<loc>./wang-lu-xian-zhi-zuo-liu-cheng-ji-lu.html</loc>
 <lastmod>2016-04-29T03:28:01+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/category/clone.html</loc>
+<loc>./category/clone.html</loc>
 <lastmod>2016-04-29T03:28:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/category/gui-hua.html</loc>
+<loc>./category/gui-hua.html</loc>
 <lastmod>2016-04-29T03:28:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/category/qi-zhong-bao-gao.html</loc>
+<loc>./category/qi-zhong-bao-gao.html</loc>
 <lastmod>2016-04-29T03:28:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/tag/aaaa.html</loc>
+<loc>./tag/0423.html</loc>
 <lastmod>2016-04-29T03:28:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/tag/0423.html</loc>
+<loc>./tag/0422.html</loc>
 <lastmod>2016-04-29T03:28:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/tag/0422.html</loc>
+<loc>./tag/manual.html</loc>
 <lastmod>2016-04-29T03:28:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/tag/mcad.html</loc>
+<loc>./tag/cadlab.html</loc>
 <lastmod>2016-04-29T03:28:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/tag/cadlab.html</loc>
+<loc>./tag/mcad.html</loc>
 <lastmod>2016-04-29T03:28:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/tag/0416.html</loc>
+<loc>./tag/0416.html</loc>
 <lastmod>2016-04-29T03:28:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/tag/manual.html</loc>
+<loc>./tag/aaaa.html</loc>
 <lastmod>2016-04-29T03:28:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/author/40423105.html</loc>
+<loc>./author/40423105.html</loc>
 <lastmod>2016-04-29T03:28:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://40423105.github.io/blog/author/kmol.html</loc>
+<loc>./author/kmol.html</loc>
 <lastmod>2016-04-29T03:28:01+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
