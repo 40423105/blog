@@ -46,9 +46,15 @@
 <v t="amd.20160329125251.1"><vh>@clean template-20160329.md</vh></v>
 <v t="leo.20160401113748.1"><vh>@clean 40423105-20160401.md</vh></v>
 <v t="leo.20160416231140.1"><vh>@clean 40423105-0416.md</vh></v>
-<v t="leo.20160422211909.1"><vh>@clean 40423105-0422.md</vh></v>
-<v t="leo.20160422212815.1"><vh>@clean 40423105-0422-2.md</vh></v>
-<v t="leo.20160422213229.1"><vh>@clean 40423105-0422-3.md</vh></v>
+<v t="leo.20160422211909.1"><vh>@clean 40423105-0422.md</vh>
+<v t="leo.20160429103719.1"><vh>26</vh></v>
+</v>
+<v t="leo.20160422212815.1"><vh>@clean 40423105-0422-2.md</vh>
+<v t="leo.20160429103806.1"><vh>28</vh></v>
+</v>
+<v t="leo.20160422213229.1"><vh>@clean 40423105-0422-3.md</vh>
+<v t="leo.20160429103809.1"><vh>30</vh></v>
+</v>
 </v>
 </v>
 </vnodes>
@@ -377,5 +383,8 @@ Author: 40423105
 &lt;iframe src="https://player.vimeo.com/video/163775965" width="640" height="368" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;a href="http://40423105.github.io/blog"&lt;/a&gt;</t>
+<t tx="leo.20160429103719.1"></t>
+<t tx="leo.20160429103806.1"></t>
+<t tx="leo.20160429103809.1"></t>
 </tnodes>
 </leo_file>
