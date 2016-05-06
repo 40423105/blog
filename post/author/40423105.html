@@ -255,6 +255,9 @@ init_mathjax();
                             <a href="../category/clone.html">Clone</a>
                         </li>
                         <li >
+                            <a href="../category/dong-tai.html">動態</a>
+                        </li>
+                        <li >
                             <a href="../category/gui-hua.html">規劃</a>
                         </li>
                         <li >
@@ -279,6 +282,37 @@ init_mathjax();
     <div class="row">
         <div class="col-sm-9">
 
+            <article>
+                <h2><a href="../dao-ru-brython-yu-snapsvg-wang-ji-hui-tu.html">導入 Brython 與 Snap.svg 網際繪圖</a></h2>
+                <div class="summary"><p>以下為使用snap.svg範例
+<script type="text/javascript" src="http://brython.info/src/brython_dist.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.4.1/snap.svg-min.js"></script></p>
+<script>
+window.onload=function(){
+brython(1);
+}
+</script>
+
+<p><svg width="800" height="600" viewBox="0 0 800 600" id="svgout"></svg></p>
+<script type="text/python">
+from javascript import JSConstructor
+from browser import alert
+from browser import window, document
+
+# 透過 window 與 JSConstructor 從 Brython 物件 snap 擷取 Snap 物件的內容
+snap = JSConstructor(window.Snap)
+
+# 使用 id 為 "svgout" 的 svg 標註進行繪圖
+s = snap("#svgout")
+
+offsetY = 50
+
+# 是否標示出繪圖範圍
+#borderRect = s ...</script>
+                    <a class="btn btn-default btn-xs" href="../dao-ru-brython-yu-snapsvg-wang-ji-hui-tu.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
             <article>
                 <h2><a href="../40423105-0401.html">40423105-0401</a></h2>
                 <div class="summary"><p>手冊類別分為 OnShape, Solvespace, FreeCAD, Elmer, V-rep 以及 Jupyter, 加上範例, 編寫模式與架構則透過 Leo Editor, Pelican,  與 Github pull requests 完成.</p>
@@ -351,6 +385,11 @@ init_mathjax();
             <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Recent Posts</span></h4>
                 <ul class="list-group" id="recentposts">
                     <li class="list-group-item">
+                        <a href="../dao-ru-brython-yu-snapsvg-wang-ji-hui-tu.html">
+                            導入 Brython 與 Snap.svg 網際繪圖
+                        </a>
+                    </li>
+                    <li class="list-group-item">
                         <a href="../40423105-0401.html">
                             40423105-0401
                         </a>
@@ -370,11 +409,6 @@ init_mathjax();
                             完成網路配置繪圖
                         </a>
                     </li>
-                    <li class="list-group-item">
-                        <a href="../wang-lu-xian-zhi-zuo-liu-cheng-ji-lu.html">
-                            網路線製作流程紀錄
-                        </a>
-                    </li>
                 </ul>
             </li>
 
@@ -383,6 +417,11 @@ init_mathjax();
                     <li class="list-group-item">
                         <a href="../category/clone.html">
                             <i class="fa fa-folder-open fa-lg"></i> clone
+                        </a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="../category/dong-tai.html">
+                            <i class="fa fa-folder-open fa-lg"></i> 動態
                         </a>
                     </li>
                     <li class="list-group-item">
